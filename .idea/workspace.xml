@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45826d57-1e51-4acd-a296-20b9d4825ba3" name="Changes" comment="" />
+    <list default="true" id="45826d57-1e51-4acd-a296-20b9d4825ba3" name="Changes" comment="zadanie 1,2,3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/beans/ScopePrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/beans/ScopeSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/SpringDiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/SpringDiApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +28,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2ZioS8ifteUDJPNdPNqcdfCKwws" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mac/Documents/CodersLab/jee-spring-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,10 +79,24 @@
       <updated>1702914259913</updated>
       <workItem from="1702914261171" duration="1698000" />
       <workItem from="1702915979106" duration="32000" />
+      <workItem from="1702916050245" duration="708000" />
     </task>
+    <task id="LOCAL-00001" summary="zadanie 1,2,3">
+      <option name="closed" value="true" />
+      <created>1702916078128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702916078128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zadanie 1,2,3" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 1,2,3" />
   </component>
 </project>
